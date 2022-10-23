@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm @Tyler-Thain
+
+I'm a Software Engineering and Finance Dual Major at the University of Calgary. I am currently looking for internship opportunities for the May 2023 to August 2024 period. I have a passion for designing and developing software, complex problem solving, and analytical thinking. As such, I am looking to work for an organization where I can grow my skills, work as part of a team, and leverage my multidisciplinary competencies to create and maintain software that will solve real problems for people and businesses. I have an intense desire to challenge myself, and make an impact. There is nothing more exciting to me than sinking my teeth into a complex, practical problem, and there is nothing more satisfying to me than developing a useful, creative, and elegant solution.
+
+From as far back as I can remember, I have been passionate about STEM topics. When I was ten years old, I would entertain myself building electrical circuits with edu-tainment products. In short order, I moved on to breadboards where I created my own amateur AM radio with some basic components, some research, and my father's old textbook. This love for STEM continued to grow, and everything really clicked when I was introduced to programming. You can still find me today investigating new technologies, helping my parents with their tech woes, and working on projects of my own. Outside of this world of technology, I enjoy reading, hiking, and spending time with my friends and family.
+
+Please feel free to reach out to me!
+* Email: tyler.thain@ucalgary.ca
+* LinkedIn: in/Tyler-Thain
 
 <!--
 **Tyler-Thain/Tyler-Thain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
