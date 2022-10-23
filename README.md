@@ -4,7 +4,7 @@ I'm a Software Engineering and Finance Dual Major at the University of Calgary. 
 
 From as far back as I can remember, I have been passionate about STEM topics. When I was ten years old, I would entertain myself building electrical circuits with edu-tainment products. In short order, I moved on to breadboards where I created my own amateur AM radio with some basic components, some research, and my father's old textbook. This love for STEM continued to grow, and everything really clicked when I was introduced to programming. You can still find me today investigating new technologies, helping my parents with their tech woes, and working on projects of my own. Outside of this world of technology, I enjoy reading, hiking, and spending time with my friends and family.
 
-Please feel free to reach out to me!
+Please feel free to reach out!
 * Email: tyler.thain@ucalgary.ca
 * LinkedIn: in/tylerthain
 
