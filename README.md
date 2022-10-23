@@ -6,7 +6,7 @@ From as far back as I can remember, I have been passionate about STEM topics. Wh
 
 Please feel free to reach out to me!
 * Email: tyler.thain@ucalgary.ca
-* LinkedIn: in/Tyler-Thain
+* LinkedIn: in/TylerThain
 
 <!--
 **Tyler-Thain/Tyler-Thain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
